@@ -1,9 +1,9 @@
-#🛍️ GlobalMart Sales Data Analysis (EDA)
+🛍️ GlobalMart Sales Data Analysis (EDA)
 
 This project performs Exploratory Data Analysis (EDA) on a sales dataset using Python.
 It provides detailed data visualizations, statistical summaries, and an automatically generated PDF report summarizing the findings.
 
-#📘 Project Overview
+📘 Project Overview
 
 The goal of this project is to analyze supermarket sales data and extract meaningful insights about:
 Top-performing products
@@ -15,7 +15,7 @@ Outlier detection using boxplots
 
 Finally, a summary report of key insights is generated and exported as a PDF.
 
-#⚙️ Technologies Used
+⚙️ Technologies Used
 Category	Tools / Libraries
 Programming Language	Python
 Data Analysis	Pandas, NumPy
@@ -23,7 +23,7 @@ Visualization	Matplotlib, Seaborn
 Reporting	Matplotlib PDFPages
 Environment	Google Colab
 
-#📂 Folder Structure
+📂 Folder Structure
 📁 GlobalMart_EDA_Project
 │
 ├── supermarket_sales.csv                # Dataset file
@@ -32,7 +32,7 @@ Environment	Google Colab
 ├── GlobalMart_Sales_EDA.ipynb           # Google Colab notebook
 └── README.md                            # Project documentation
 
-#🔍 How to Run in Google Colab
+🔍 How to Run in Google Colab
 
 Mount Google Drive
 from google.colab import drive
@@ -75,7 +75,7 @@ Revenue, Product, and Geographical Insights
 Customer Segment & Sales Rep Analysis
 Correlation and Observations Summary
 
-#✨ Output Example
+✨ Output Example
 GLOBALMART SALES ANALYSIS - INSIGHTS SUMMARY
 -------------------------------------------------------------
 Date Generated: 2025-10-31
@@ -87,7 +87,7 @@ Top Country by Revenue: United States
 Top Product: Health and Beauty
 Dominant Customer Segment: Member
 
-#🧠 Learning Outcome
+🧠 Learning Outcome
 Through this project, you will learn:
 How to clean and preprocess real-world datasets.
 
